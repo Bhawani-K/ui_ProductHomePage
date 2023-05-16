@@ -1,3 +1,2 @@
 # ui_ProductHomePage
-
-![productHomePage](/productHomePage.png)
+![product HomePage](productHomePage.png)
